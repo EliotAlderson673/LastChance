@@ -1,92 +1,61 @@
-## I. Étude de texte
+السؤال 1:
+العلاقة:** علاقة تكامل وترابط (أو علاقة تفسيرية).
+التعليل:** العنوان يطرح إشكالية وضع "المتعلم بين ذكاءين"، وتأتي نهاية النص لتفسر وتكمل هذا المعنى بالتأكيد على ضرورة التكامل بينهما لتمكين المتعلم من إدارة أموره ذاتياً دون اتكالية.
 
-**Question 1 – Tableau :**
+السؤال 2:
+الفكرة 1:** تخوف الباحثين من الآثار السلبية للاعتماد المفرط على الذكاء الاصطناعي وتسببه في خمول القدرات الذهنية والاتكالية لدى التلاميذ.
+الفكرة 2:** إمكانية التوظيف الإيجابي والفعال لنماذج الذكاء الاصطناعي في التعليم عبر جعلها أداة دعم ومحفزاً للتعلم الاستكشافي.
+الفكرة 3:** التكامل والانسجام بين الذكاء البشري والاصطناعي كشرط أساسي لتحقيق الغايات التعليمية وتنمية التفكير النقدي.
 
-| Auteur | Titre de l'œuvre | Genre littéraire | Siècle |
-|--------|-----------------|-----------------|--------|
-| Voltaire | Le Dernier Jour d'un Condamné| Roman / Récit | XIXe siècle (19ème) |
+السؤال 3:
+حقل التربية والتعليم:** المتعلّمين، التلاميذ، الطلبة، كفايات، التفكير النقدي، البيداغوجيا.
+حقل التكنولوجيا:** الذكاء الاصطناعي، تطبيقاته، أدواته، نماذج الذكاء الاصطناعي، الآلة.
+العلاقة بينهما:** علاقة تأثير وتكامل.
+تعليل العلاقة:** لأن التكنولوجيا أصبحت جزءاً لا يتجزأ من المنظومة التعليمية الحديثة، حيث تؤثر في مهارات المتعلمين وتتطلب مقاربات بيداغوجية جديدة لحسن استثمارها.
 
----
+السؤال 4:
+1. توظيفه في المهام الروتينية أو تلك التي لا تتطلب تفكيراً عميقاً لتوفير الوقت والجهد.
+2. اتخاذ أدواته كـ "مُعلِّم" يقدّم الدعم والتوجيه عوضاً عن تقديم الإجابات الجاهزة.
+3. بناء التعلم على أسئلة استكشافية تحثّ المتعلم على المبادرة وحل المشكلات وتنمية التفكير النقدي.
 
-**Question 2 :**
-**b. Après le séjour en Eldorado.**
+السؤال 5:
+الطريقة المعتمدة:** طريقة استنباطية (من العام إلى الخاص).
+إبراز عناصره
+المقدمة:** طرح الإشكال العام المتعلق بدخول الذكاء الاصطناعي إلى حياة المتعلم اليومية وتأثيراته.
+العرض:** تحليل ومقارنة وجهتي النظر؛ التحذير من سلبيات الاتكالية مقابل استعراض الحلول والتوظيف الإيجابي للأداة.
+الخاتمة:** الاستنتاج النهائي بضرورة التكامل بين الذكاءين البشري والاصطناعي لتحقيق غايات التعليم.
 
----
+السؤال 6:
+* يُظهر تحليل النص أن التطور التكنولوجي يضع المتعلم أمام خيارين؛ إما الاستسلام للاتكالية وخمول الفكر، أو استغلال الذكاء الاصطناعي كرافعة لتطوير المهارات.
+* في رأيي الشخصي، فإن الاعتماد المفرط على الذكاء الاصطناعي يؤدي فعلاً إلى خسارة القدرة على التفكير التحليلي والإبداعي.
+* السبب في ذلك هو تحول الآلة إلى بديل لعقل الطالب يعطيه إجابات جاهزة دون عناء البحث.
+* الإبداع البشري يتغذى دائماً على التحدي والمحاولة والخطأ، وهو ما تفتقده الآلة إذا غاب التوجيه البيداغوجي السليم.
 
-**Question 3 – Vrai ou Faux :**
+ثانياً: مكون علوم اللغة (04 نقط)
+السؤال 1:
+كلمة مقترضة:** البيداغوجيا (أو الأتمتة).
+نوع الاقتراض:** اقتراض لفظي معنوي (دخيل).
+جملة اعتراضية:** -على وجه السرعة-
+موقعها:** وقعت بين الفعل (يُبدعوا) والمفعول به (أشكالاً).
 
-a. Faux
-b.Vrai
+السؤال 2:
+أ. جملة تتضمن الفعل سجد بمعنى أول (الخضوع والعبادة):** سَجَدَ المؤمنُ لربّه خاشعاً في صلاته.
+أ. جملة تتضمن الفعل سجد بمعنى ثانٍ (الانحناء أو طأطأ الرأس):** سَجَدَ النخلُ من شدة الرياح العاتية.
+ب. جملة تتضمن فعلاً مشتقاً من اسم الذات "تجر":** تَجَرَ التاجرُ بالأقمشةِ الرابحةِ (أو: اتَّجَرَ الشابُ في وسائل التكنولوجيا).
 
----
+ثالثاً: مكون التعبير والإنشاء (06 نقط)
+:المقدمة
+المقدمة: الإشارة إلى الأهمية المتزايدة لمنصات الذكاء الاصطناعي في التعليم، وضرورة تأطير استخدامها لحماية التلاميذ. ثم طرح الإشكال: كيف يمكن إقناع إدارة المؤسسة بتبني مشروع تدريبي آمن؟
 
-**Question 4 – Tableau :**
+#:العرض#
+بدء التفاوض (المرونة والمصلحة المشتركة): تم عرض المشروع على الإدارة ليس كرفض للتكنولوجيا ولا كقبول مطلق لها، بل كحل وسط يضمن "الاستخدام الآمن".
 
-| Prix demandés par le marchand | Réactions de Candide | Explications données par le marchand |
-|---|---|---|
-| Dix mille piastres | Candide n'hésita pas / accepte immédiatement | — |
-| Vingt mille piastres | « Eh bien, vous les aurez » / accepte sans discuter | Le marchand dit qu'il ne peut partir à moins de vingt mille |
-| Trente mille piastres | « Vous en aurez donc trente mille » / accepte encore | Il dit qu'il ne peut le conduire à Venise à moins de trente mille |
+تقديم الحجج والبراهين (تقنيات الإقناع): تم تقديم إحصاءات حول مخاطر الانفتاح غير الموجه للتلاميذ على المنصات (كالسرقة الأدبية والخمول الفكري)، وإبراز كيف سيسهم المشروع في رفع كفاءة المؤسسة الرقمية وتحسين نتائجها.
 
----
+خطوات الخطة المعروضة: تنظيم ورشات تطبيقية أسبوعية، تحديد منصات تعليمية مغلقة وآمنة، وتعيين أساتذة مشرفين لمراقبة التطور.
 
-**Question 5 :**
-Candide accepte sans hésitation les prix demandés par le marchand parce qu'il est naïf et qu'il possède des diamants d'une grande valeur rapportés d'Eldorado. Il n'a pas l'habitude de marchander et fait confiance aux gens sans méfiance.
+تقديم تنازلات ذكية لكسب رضا الطرف الآخر: قبول تعديل مواعيد التدريب لتكون خارج أوقات الدراسة الرسمية (دعم وتثبيت) تماشياً مع تحفظات الإدارة على الهدر الزمني.
 
----
+#الخاتمة#
+ ريادية للمؤسسة.تتويج التفاوض بالوصول إلى اتفاق يرضي الطرفين (صيغة رابح-رابح)، يثمر موافقة الإدارة وتبنيها الرسمي للمشروع كخطوة
 
-**Question 6 :**
-
-**a.** Non, d'après le narrateur, Candide n'est pas satisfait du jugement prononcé par le juge hollandais. Au contraire, ce jugement l'a désespéré et plongé dans une profonde mélancolie.
-
-**b.** Justification tirée du texte : *« Ce procédé acheva de désespérer Candide »* — le juge lui a d'abord fait payer dix mille piastres pour le bruit qu'il avait fait, puis dix mille autres pour les frais de l'audience, sans rendre justice.
-
----
-
-**Question 7 – Champ lexical de la « richesse » :**
-
-1. piastres
-2. diamants
-3. trésors
-4. fortune
-
----
-
-**Question 8 :**
-
-**a.une hyperbol
-
-**b.** Par cette figure de style, le narrateur cherche à exprimer l'intensité extrême de la souffrance de Candide, en insistant de façon exagérée sur l'accumulation de ses malheurs pour susciter la compassion du lecteur et dénoncer l'injustice dont il est victime.
-
----
-
-**Question 9 :**
-À mon avis, Candide n'a pas raison d'accepter les prix élevés demandés par le marchand. En effet, sa naïveté et sa confiance aveugle l'ont rendu vulnérable face à la cupidité de Vanderdendur. Un voyageur raisonnable aurait dû négocier ou chercher un autre patron. En acceptant sans conditions, Candide a encouragé l'exploitation et a fini par tout perdre.
-
----
-
-**Question 10 :**
-J'approuve la décision de Candide de recourir à la justice pour faire respecter ses droits, car tout individu a le droit de se défendre face à l'injustice. Cependant, dans ce cas précis, la justice elle-même s'est révélée corrompue, ce qui montre que le recours aux institutions n'est pas toujours efficace quand celles-ci sont au service des puissants plutôt que des victimes.
-
----
-
-## II. Production écrite
-
-## introduction 3ada ghir comment
-Dans la vie, on aime croire que les gens sont fondamentalement bons, qu'en cas de difficulté, une main tendue nous attend. Pourtant, la réalité est souvent bien plus cruelle. 
-Il arrive que certaines personnes, loin d'aider ceux qui souffrent, choisissent de profiter de leur vulnérabilité pour en tirer un avantage personnel.C'est précisément ce que Voltaire dénonce à travers le personnage de Candide,
- et c'est une réalité que nous pouvons tous observer autour de nous.
-
-## development 
-Il faut d'abord reconnaître que ce phénomène existe bel et bien. Combien de fois voit-on des personnes en situation de détresse — qu'il s'agisse de migrants cherchant une vie meilleure, de malades cherchant un traitement,
-ou simplement de gens dans le besoin — se faire exploiter par ceux-là mêmes qui devraient les aider ? Dans mon entourage, j'ai vu des propriétaires imposer des loyers exorbitants à des familles modestes,
-sachant pertinemment qu'elles n'avaient pas d'autre choix. Ces personnes profitent de la désespération des autres comme d'une opportunité commerciale. C'est moralement inacceptable.
-
-De plus, cette attitude révèle un profond manque d'humanité. Lorsque quelqu'un est en difficulté, il est dans un état de faiblesse qui devrait naturellement appeler à la solidarité,
-pas à l'exploitation. Pourtant, certains individus — comme le marchand Vanderdendur ou le juge corrompu dans le texte — voient dans la souffrance d'autrui non pas une détresse à soulager, mais une occasion à saisir. Ce comportement égoïste détruit le lien social et installe un climat de méfiance généralisée dans la société.
-Certes, on pourrait arguer que chacun cherche son intérêt et que c'est une réalité humaine inévitable. Mais il existe une ligne claire entre défendre ses intérêts légitimement et abuser délibérément de la fragilité d'une personne. Franchir cette ligne, c'est choisir l'injustice.
-
-## conclusion
-En conclusion, je pense que profiter des malheurs des autres est non seulement une faute morale grave, mais aussi un signe d'une société qui a perdu ses valeurs.
- Face à cela, il est essentiel d'éduquer les jeunes générations à la solidarité,
- à l'empathie et au respect de la dignité humaine. Car une société qui protège ses membres les plus vulnérables est une société véritablement civilisée.
